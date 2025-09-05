@@ -1,5 +1,6 @@
 # HTML---JS-Quiz-
-This my mini [ kuchh zyada hi choti h ik] quiz webpage<!DOCTYPE html>
+This my mini [ kuchh zyada hi choti h ik] quiz webpage 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
